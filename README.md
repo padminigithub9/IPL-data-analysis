@@ -20,12 +20,11 @@ Exploratory Data Analysis on 18 seasons of IPL cricket data covering
 - Google Colab
 
 ## Dataset
-Two datasets sourced from Kaggle:
+Dataset sourced from Kaggle:
 - IPL.csv — IPL Complete Dataset (2008-2025) by Chaitanya
-- deliveries.csv — IPL Complete Dataset (2008-2024) by Prateek Bhardwaj
 
 ## How to Run
 1. Download the dataset from Kaggle
 2. Open the .ipynb file in Google Colab
-3. Upload IPL.csv and deliveries.csv files when prompted
+3. Upload IPL.csv file when prompted
 4. Run all cells
