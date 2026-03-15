@@ -13,6 +13,16 @@ Exploratory Data Analysis on 18 seasons of IPL cricket data covering
 - 📅 Virat Kohli's 2016 season (973 runs) is the highest individual
   season score in IPL history
 
+## Visualizations
+-Matches Per Season
+-Top 10 Run Scorers
+-Top 10 Wicket Takers
+-Toss Decision
+-IPL Titles
+-Best Batting Seasons
+-Most Sixes
+-Player of the Match
+
 ## Tools Used
 - Python
 - Pandas
